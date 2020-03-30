@@ -36,7 +36,7 @@
     "file-loader": "^0.11.2",
     "hanabi": "^0.4.0",
     "marked": "^0.4.0",
-    "node-sass": "^4.9.2",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^2.0.5",
     "sass-loader": "^6.0.3",
     "style-loader": "^0.18.2",
@@ -44,5 +44,8 @@
     "webpack": "^2.6.1",
     "webpack-cli": "^3.3.5",
     "webpack-dev-server": "^2.9.1"
+  },
+  "dependencies": {
+    "leancloud-storage": "^3.15.0"
   }
 }
